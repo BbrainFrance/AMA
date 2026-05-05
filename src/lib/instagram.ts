@@ -144,6 +144,7 @@ export async function syncInstagramHighlights() {
  * Récupère les posts depuis la base (cache).
  */
 export async function getRecentPosts(limit = 9) {
+  if (!process.env.DATABASE_URL) return [];
   try {
     return await db
       .select()
@@ -157,6 +158,7 @@ export async function getRecentPosts(limit = 9) {
 }
 
 export async function getHighlights(limit = 12) {
+  if (!process.env.DATABASE_URL) return [];
   try {
     return await db
       .select()
