@@ -1,0 +1,115 @@
+{
+  "Brand": {
+    "name": "Auto Move Azur",
+    "tagline": "Secure & confidential transport"
+  },
+  "Nav": {
+    "home": "Home",
+    "services": "Services",
+    "fleet": "Our fleet",
+    "gallery": "Recent jobs",
+    "booking": "Book a meeting",
+    "contact": "Contact",
+    "cta": "Express quote"
+  },
+  "Hero": {
+    "badge": "French Riviera · Since 2015",
+    "title": "Ultra-secure transport for exceptional vehicles",
+    "subtitle": "Enclosed truck, winch, low-clearance ramp. Absolute confidentiality.",
+    "ctaPrimary": "Book a transport",
+    "ctaSecondary": "View recent jobs",
+    "stat1Label": "Vehicles transported",
+    "stat1Value": "+1200",
+    "stat2Label": "Countries covered",
+    "stat2Value": "8",
+    "stat3Label": "Google rating",
+    "stat3Value": "5.0",
+    "live": "ON THE ROAD"
+  },
+  "Marquee": {
+    "label": "Brands we transport"
+  },
+  "Services": {
+    "eyebrow": "Services",
+    "title": "Wherever you want, however you want",
+    "subtitle": "Four coverage zones, one standard: excellence.",
+    "france": {
+      "title": "France",
+      "desc": "Door-to-door national transport, climate-controlled enclosed truck.",
+      "tag": "Door to Door"
+    },
+    "europe": {
+      "title": "Europe",
+      "desc": "Germany, Italy, Spain, Belgium, Netherlands. All customs handled.",
+      "tag": "EU Schengen"
+    },
+    "uk": {
+      "title": "United Kingdom",
+      "desc": "Eurotunnel, post-Brexit paperwork, delivery to London / Goodwood.",
+      "tag": "Post-Brexit"
+    },
+    "swiss": {
+      "title": "Switzerland",
+      "desc": "Geneva, Zurich, St-Moritz. ATA Carnet, temporary clearance.",
+      "tag": "ATA Carnet"
+    }
+  },
+  "Instagram": {
+    "eyebrow": "Live Feed",
+    "title": "Latest deliveries",
+    "subtitle": "Real-time updates from our Instagram.",
+    "follow": "Follow @automoveazur",
+    "viewOnInstagram": "View on Instagram",
+    "highlights": "Story highlights",
+    "empty": "The Instagram feed will appear once the API is connected."
+  },
+  "Booking": {
+    "eyebrow": "Book a meeting",
+    "title": "Pick a slot",
+    "subtitle": "Custom quote, video or in person. Confirmation within 24h.",
+    "selectDate": "Pick a date",
+    "selectSlot": "Pick a time slot",
+    "noSlots": "No slots available on this day.",
+    "loading": "Loading…",
+    "form": {
+      "title": "Your details",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "vehicle": "Vehicle to transport (make, model, year)",
+      "pickup": "Pick-up location",
+      "dropoff": "Delivery location",
+      "notes": "Additional details (optional)",
+      "submit": "Confirm booking",
+      "submitting": "Sending…",
+      "back": "Back"
+    },
+    "success": {
+      "title": "Booking confirmed",
+      "message": "A confirmation email has just been sent to you. See you soon!"
+    },
+    "error": "Something went wrong. Try again or contact us directly."
+  },
+  "Whatsapp": {
+    "label": "Chat on WhatsApp",
+    "tooltip": "Quote in 2 min",
+    "message": "Hello, I would like a quote for a vehicle transport."
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "phone": "+33 4 88 91 94 00",
+    "address": "06130 Grasse, France",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "tagline": "Professional transporter of exceptional vehicles on the French Riviera."
+  },
+  "Contact": {
+    "title": "Get in touch",
+    "subtitle": "Our team replies within 24 hours."
+  },
+  "Common": {
+    "languageSwitcher": "Language",
+    "menu": "Menu",
+    "close": "Close"
+  }
+}

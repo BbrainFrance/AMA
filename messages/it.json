@@ -1,0 +1,115 @@
+{
+  "Brand": {
+    "name": "Auto Move Azur",
+    "tagline": "Trasporto sicuro e riservato"
+  },
+  "Nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "fleet": "La nostra flotta",
+    "gallery": "Trasporti recenti",
+    "booking": "Prenota un appuntamento",
+    "contact": "Contatti",
+    "cta": "Preventivo express"
+  },
+  "Hero": {
+    "badge": "Costa Azzurra · Dal 2015",
+    "title": "Trasporto ultra-sicuro per veicoli d'eccezione",
+    "subtitle": "Camion chiuso, verricello, rampa per vetture ribassate. Riservatezza assoluta.",
+    "ctaPrimary": "Prenota un trasporto",
+    "ctaSecondary": "Vedi i trasporti",
+    "stat1Label": "Veicoli trasportati",
+    "stat1Value": "+1200",
+    "stat2Label": "Paesi coperti",
+    "stat2Value": "8",
+    "stat3Label": "Valutazione Google",
+    "stat3Value": "5.0",
+    "live": "IN VIAGGIO"
+  },
+  "Marquee": {
+    "label": "Marchi trasportati"
+  },
+  "Services": {
+    "eyebrow": "Servizi",
+    "title": "Dove vuoi, come vuoi",
+    "subtitle": "Quattro zone di copertura, un solo standard: l'eccellenza.",
+    "france": {
+      "title": "Francia",
+      "desc": "Trasporto nazionale porta a porta, camion chiuso climatizzato.",
+      "tag": "Door to Door"
+    },
+    "europe": {
+      "title": "Europa",
+      "desc": "Germania, Italia, Spagna, Belgio, Paesi Bassi. Documenti doganali gestiti.",
+      "tag": "EU Schengen"
+    },
+    "uk": {
+      "title": "Regno Unito",
+      "desc": "Eurotunnel, pratiche post-Brexit, consegna Londra / Goodwood.",
+      "tag": "Post-Brexit"
+    },
+    "swiss": {
+      "title": "Svizzera",
+      "desc": "Ginevra, Zurigo, St-Moritz. Carnet ATA, sdoganamento temporaneo.",
+      "tag": "Carnet ATA"
+    }
+  },
+  "Instagram": {
+    "eyebrow": "Live Feed",
+    "title": "Ultime consegne",
+    "subtitle": "Aggiornamenti in tempo reale dal nostro Instagram.",
+    "follow": "Segui @automoveazur",
+    "viewOnInstagram": "Vedi su Instagram",
+    "highlights": "Storie in evidenza",
+    "empty": "Il feed Instagram apparirà al collegamento dell'API."
+  },
+  "Booking": {
+    "eyebrow": "Prenota un appuntamento",
+    "title": "Scegli un orario",
+    "subtitle": "Preventivo personalizzato in video o di persona. Conferma entro 24h.",
+    "selectDate": "Scegli una data",
+    "selectSlot": "Scegli un orario",
+    "noSlots": "Nessun orario disponibile in questo giorno.",
+    "loading": "Caricamento…",
+    "form": {
+      "title": "I tuoi dati",
+      "name": "Nome completo",
+      "email": "Email",
+      "phone": "Telefono",
+      "vehicle": "Veicolo da trasportare (marca, modello, anno)",
+      "pickup": "Luogo di ritiro",
+      "dropoff": "Luogo di consegna",
+      "notes": "Dettagli aggiuntivi (opzionale)",
+      "submit": "Conferma appuntamento",
+      "submitting": "Invio…",
+      "back": "Indietro"
+    },
+    "success": {
+      "title": "Appuntamento confermato",
+      "message": "Una email di conferma è stata appena inviata. A presto!"
+    },
+    "error": "Si è verificato un errore. Riprova o contattaci direttamente."
+  },
+  "Whatsapp": {
+    "label": "Chatta su WhatsApp",
+    "tooltip": "Preventivo in 2 min",
+    "message": "Salve, vorrei un preventivo per un trasporto veicolo."
+  },
+  "Footer": {
+    "rights": "Tutti i diritti riservati.",
+    "phone": "+33 4 88 91 94 00",
+    "address": "06130 Grasse, Francia",
+    "legal": "Note legali",
+    "privacy": "Privacy policy",
+    "tagline": "Trasportatore professionale di veicoli d'eccezione sulla Costa Azzurra."
+  },
+  "Contact": {
+    "title": "Contattaci",
+    "subtitle": "Il nostro team risponde entro 24 ore."
+  },
+  "Common": {
+    "languageSwitcher": "Lingua",
+    "menu": "Menu",
+    "close": "Chiudi"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Brand": {
+    "name": "Auto Move Azur",
+    "tagline": "Transport sécurisé & confidentiel"
+  },
+  "Nav": {
+    "home": "Accueil",
+    "services": "Prestations",
+    "fleet": "Notre flotte",
+    "gallery": "Convoyages",
+    "booking": "Prendre rendez-vous",
+    "contact": "Contact",
+    "cta": "Devis express"
+  },
+  "Hero": {
+    "badge": "Côte d'Azur · Depuis 2015",
+    "title": "Transport ultra-sécurisé de véhicules d'exception",
+    "subtitle": "Camion fermé, treuil, rampe pour véhicules très bas. Confidentialité absolue.",
+    "ctaPrimary": "Réserver un transport",
+    "ctaSecondary": "Voir les convoyages",
+    "stat1Label": "Véhicules transportés",
+    "stat1Value": "+1200",
+    "stat2Label": "Pays couverts",
+    "stat2Value": "8",
+    "stat3Label": "Note Google",
+    "stat3Value": "5.0",
+    "live": "EN ROUTE"
+  },
+  "Marquee": {
+    "label": "Marques convoyées"
+  },
+  "Services": {
+    "eyebrow": "Prestations",
+    "title": "Là où vous voulez, comme vous le voulez",
+    "subtitle": "Quatre zones de couverture, une seule exigence : l'excellence.",
+    "france": {
+      "title": "France",
+      "desc": "Convoyage national porte-à-porte, camion fermé climatisé.",
+      "tag": "Door to Door"
+    },
+    "europe": {
+      "title": "Europe",
+      "desc": "Allemagne, Italie, Espagne, Belgique, Pays-Bas. Documents douaniers gérés.",
+      "tag": "EU Schengen"
+    },
+    "uk": {
+      "title": "Royaume-Uni",
+      "desc": "Eurotunnel, formalités post-Brexit, livraison Londres / Goodwood.",
+      "tag": "Post-Brexit"
+    },
+    "swiss": {
+      "title": "Suisse",
+      "desc": "Genève, Zurich, St-Moritz. Carnet ATA, dédouanement temporaire.",
+      "tag": "Carnet ATA"
+    }
+  },
+  "Instagram": {
+    "eyebrow": "Live Feed",
+    "title": "Derniers convoyages",
+    "subtitle": "Suivi en temps réel depuis notre Instagram.",
+    "follow": "Suivre @automoveazur",
+    "viewOnInstagram": "Voir sur Instagram",
+    "highlights": "Stories à la une",
+    "empty": "Le flux Instagram sera disponible dès la connexion de l'API."
+  },
+  "Booking": {
+    "eyebrow": "Prise de rendez-vous",
+    "title": "Réservez un créneau",
+    "subtitle": "Devis personnalisé en visio ou en personne. Confirmation sous 24h.",
+    "selectDate": "Choisissez une date",
+    "selectSlot": "Choisissez un créneau",
+    "noSlots": "Aucun créneau disponible ce jour.",
+    "loading": "Chargement…",
+    "form": {
+      "title": "Vos informations",
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "vehicle": "Véhicule à transporter (marque, modèle, année)",
+      "pickup": "Lieu de prise en charge",
+      "dropoff": "Lieu de livraison",
+      "notes": "Précisions (optionnel)",
+      "submit": "Confirmer le rendez-vous",
+      "submitting": "Envoi…",
+      "back": "Retour"
+    },
+    "success": {
+      "title": "Rendez-vous confirmé",
+      "message": "Un email de confirmation vient de vous être envoyé. À très vite !"
+    },
+    "error": "Une erreur est survenue. Réessayez ou contactez-nous directement."
+  },
+  "Whatsapp": {
+    "label": "Discuter sur WhatsApp",
+    "tooltip": "Devis en 2 min",
+    "message": "Bonjour, je souhaite un devis pour un transport de véhicule."
+  },
+  "Footer": {
+    "rights": "Tous droits réservés.",
+    "phone": "04 88 91 94 00",
+    "address": "06130 Grasse, France",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "tagline": "Transporteur professionnel de véhicules d'exception sur la Côte d'Azur."
+  },
+  "Contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Notre équipe vous répond sous 24 heures."
+  },
+  "Common": {
+    "languageSwitcher": "Langue",
+    "menu": "Menu",
+    "close": "Fermer"
+  }
+}
