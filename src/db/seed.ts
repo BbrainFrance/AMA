@@ -1,13 +1,15 @@
-import "dotenv/config";
-import { db } from "./index";
-import { availabilityRules } from "./schema";
+import { config } from "dotenv";
+config({ path: ".env.local" });
+config({ path: ".env" });
 
 async function seed() {
+  const { db } = await import("./index");
+  const { availabilityRules } = await import("./schema");
+
   console.log("→ Insertion des disponibilités par défaut…");
 
   await db.delete(availabilityRules);
 
-  // Lundi à vendredi 9h-12h et 14h-18h, créneaux de 30 min
   const weekdays = [1, 2, 3, 4, 5];
   for (const weekday of weekdays) {
     await db.insert(availabilityRules).values([
@@ -16,7 +18,6 @@ async function seed() {
     ]);
   }
 
-  // Samedi matin uniquement
   await db.insert(availabilityRules).values({
     weekday: 6,
     startTime: "10:00:00",
@@ -24,7 +25,7 @@ async function seed() {
     slotDuration: 30,
   });
 
-  console.log("✓ Seed terminé.");
+  console.log("✓ Seed terminé : 5 jours x 2 plages + samedi matin");
   process.exit(0);
 }
 
